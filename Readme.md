@@ -1,4 +1,4 @@
-## Minimal Project Template for JavaScript (node.js) with Tests
+## Minimal JavaScript (node.js) Project Template with Tests
 
 Get node.js here:
 
