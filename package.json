@@ -1,11 +1,10 @@
 {
     "type": "module",
     "scripts": {
-        "test": "jasmine"
+        "test": "mocha --reporter spec"
     },
-    "dependencies": {},
     "devDependencies": {
-        "jasmine": "^3.5.0",
-        "jasmine-console-reporter": "3.1.0"
+        "chai": "^4.3.0",
+        "mocha": "^8.3.0"
     }
 }
